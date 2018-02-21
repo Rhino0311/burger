@@ -1,0 +1,22 @@
+* {
+	text-align: center;
+}
+body{
+	background-color: #E8B92D;
+	font-family:  'Georgia', Times, Times New Roman, serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	font-family: 'Baloo Da', cursive;
+}
+
+.jumbotron {
+	background-color: #f5f5f5;
+	background-image: url("http://www.thencata.org/members/Baylor_Presto.jpg");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size: cover;
+}
+#burger-header-img {
+	height: 110px;
+}
